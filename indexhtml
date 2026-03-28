@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Dự án Thương Mại Điện Tử</title>
+    <style>
+        body { font-family: sans-serif; text-align: center; padding-top: 50px; }
+        .menu { display: flex; justify-content: center; gap: 20px; }
+        a { padding: 15px 25px; background: #007bff; color: white; text-decoration: none; border-radius: 5px; }
+        a:hover { background: #0056b3; }
+    </style>
+</head>
+<body>
+    <h1>Các thiết kế</h1>
+    <div class="menu">
+        <a href="./home/index.html">Trang Chủ</a>
+        <a href="./Shopping Cart/index.html">Giỏ Hàng</a>
+        <a href="./Product Detail Page/index.html">Chi Tiết Sản Phẩm</a>
+    </div>
+</body>
+</html>
